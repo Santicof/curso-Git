@@ -10,4 +10,6 @@ Aparecen los comentarios olos de cada log(commit) que hice
 ## GIT RESTORE
 Permite recuperar archivos desde el historico de cambios git
 ## GIT FETCH
+ 
  SOlicita los cambios que ocurrieron en el remoto pero sin traer los cambios
+ 
